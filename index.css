@@ -18,10 +18,32 @@ body{
     height: 100%;
     overflow: hidden;
 }
-
 /* menu design */
-
 #menu{
-    background: pink;
-    
+    background:whitesmoke;
+}
+
+.brand-logo{
+    padding: 0 30px;
+}
+
+.brand-logo img{
+    width: 150px;
+    height: 150px;
+    margin-top: -20px;
+}
+
+.menu-item a{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 8px 30px;
+    margin: 12px;
+}
+#food-container{
+    background: coral;
+}
+#cart{
+    background: lavender;
+
 }
